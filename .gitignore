@@ -140,6 +140,7 @@ celerybeat.pid
 # Environments
 .env
 .envrc
+.spotify_tokens
 .venv
 env/
 venv/
